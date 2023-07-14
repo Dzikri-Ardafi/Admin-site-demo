@@ -3,7 +3,7 @@
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 ## Result
 
-![image](https://github.com/Dzikri-Ardafi/Admin-site/assets/99666120/3a4eee74-36c0-44c0-a834-639370a1ddba)
+(https://github.com/Dzikri-Ardafi/Admin-site/assets/99666120/3a4eee74-36c0-44c0-a834-639370a1ddba)
 
 **Due to time constraints, I did not make this website responsive**
 
